@@ -14,8 +14,9 @@ Here you will find the solutions to the exercises proposed in each module of the
 - [Module 01](./m1_First_Commands) — First Commands in Python
 - [Module 02](./m2_Operators_and_Primitive_Types) — Operators and Primitive Types
 - [Module 03](./m3_Arithmetic_Operators) — Arithmetic Operators
-- [Module 04](./m4_Using_Modules) - Using Modules
-- [Module 05](./m5_Manipulating_Text) - Manipulating Text
+- [Module 04](./m4_Using_Modules) — Using Modules
+- [Module 05](./m5_Manipulating_Text) — Manipulating Text
+- [Module 06](./m6_Condicions_Part1) — Condicions (Part 1)
 
 ---
 
