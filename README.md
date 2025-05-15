@@ -21,6 +21,7 @@ Here you will find the solutions to the exercises proposed in each module of the
 ### 🌍 World 2 — Control Structures and Collections
 
 - [Module 07](./m7_Nested_Conditionals) — Nested Conditionals
+- [Module 08](./m8_For_Loop_Structure) - For Loop Structure
 
 ---
 
