@@ -6,5 +6,7 @@ commonDifference = int(input('Digite a razão da progressão aritimética '))
 tenthTerm = firstTerm + commonDifference * 10
 
 for i in range(firstTerm, tenthTerm, commonDifference):
-    print(f'{i}',end=' - ')
-print('...')
+    if i == firstTerm: 
+        print(i, end='')
+    else: 
+        print(f' - {i}', end='')
