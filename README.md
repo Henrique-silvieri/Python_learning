@@ -25,9 +25,9 @@ Here you will find the solutions to the exercises proposed in each module of the
 - [Module 09](./m09_While_Loop_Sructure) — While Loop Structure
 - [Module 10](./m10_Breaking_While_Loops) — Breaking While Loops
 
-### 🌍 World 3 — 
+### 🌍 World 3 — Composite Structures
 
-- [Module 11](./m11) — 
+- [Module 11](./m11_Tuples) — Tuples 
 
 ---
 
@@ -44,5 +44,5 @@ This project aims to:
 
 ## 🔗 Useful Links
 
-- [Curso em Vídeo YouTube Channel](https://www.youtube.com/@CursoemVideo)
+- [Curso em Vídeo YouTube Channel](https://www.youtube.com/c/CursoemVídeo)
 - [Curso em Vídeo Official Website](https://www.cursoemvideo.com/)
