@@ -11,23 +11,23 @@ Here you will find the solutions to the exercises proposed in each module of the
 
 ### 🌍 World 1 — Programming Fundamentals
 
-- [Module 01](./m01_First_Commands) — First Commands in Python
-- [Module 02](./m02_Operators_and_Primitive_Types) — Operators and Primitive Types
-- [Module 03](./m03_Arithmetic_Operators) — Arithmetic Operators
-- [Module 04](./m04_Using_Modules) — Using Modules
-- [Module 05](./m05_Manipulating_Text) — Manipulating Text
-- [Module 06](./m06_Conditions_Part1) — Conditions (Part 1)
+- [Module 01](./Exercises_CursoEmVideo/World_1/m01_First_Commands) — First Commands in Python
+- [Module 02](./Exercises_CursoEmVideo/World_1/m02_Operators_and_Primitive_Types) — Operators and Primitive Types
+- [Module 03](./Exercises_CursoEmVideo/World_1/m03_Arithmetic_Operators) — Arithmetic Operators
+- [Module 04](./Exercises_CursoEmVideo/World_1/m04_Using_Modules) — Using Modules
+- [Module 05](./Exercises_CursoEmVideo/World_1/m05_Manipulating_Text) — Manipulating Text
+- [Module 06](./Exercises_CursoEmVideo/World_1/m06_Conditions_Part1) — Conditions (Part 1)
 
 ### 🌍 World 2 — Control Structures and Collections
 
-- [Module 07](./m07_Nested_Conditionals) — Nested Conditionals
-- [Module 08](./m08_For_Loop_Structure) — For Loop Structure
-- [Module 09](./m09_While_Loop_Sructure) — While Loop Structure
-- [Module 10](./m10_Breaking_While_Loops) — Breaking While Loops
+- [Module 07](./Exercises_CursoEmVideo/World_2/m07_Nested_Conditionals) — Nested Conditionals
+- [Module 08](./Exercises_CursoEmVideo/World_2/m08_For_Loop_Structure) — For Loop Structure
+- [Module 09](./Exercises_CursoEmVideo/World_2/m09_While_Loop_Sructure) — While Loop Structure
+- [Module 10](./Exercises_CursoEmVideo/World_2/m10_Breaking_While_Loops) — Breaking While Loops
 
 ### 🌍 World 3 — Composite Structures
 
-- [Module 11](./m11_Tuples) — Tuples 
+- [Module 11](./Exercises_CursoEmVideo/World_3/m11_Tuples) — Tuples 
 
 ---
 
