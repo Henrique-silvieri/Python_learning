@@ -1,4 +1,4 @@
-# # Create a program that reads the name and the price of multiple products. The program should ask the user whether they want to continue or not. At the end, display:
+# Create a program that reads the name and the price of multiple products. The program should ask the user whether they want to continue or not. At the end, display:
 # A) The total amount spent on the purchase.
 # B) How many products cost more than R$1000.
 # C) The name of the cheapest product.

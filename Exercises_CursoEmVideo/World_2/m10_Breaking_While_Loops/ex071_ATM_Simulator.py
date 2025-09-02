@@ -1,4 +1,4 @@
-# # Write a program that simulates the operation of an ATM (Automated Teller Machine).
+# Write a program that simulates the operation of an ATM (Automated Teller Machine).
 # At the beginning, ask the user what amount of money they wish to withdraw (an integer number), and the program should inform how many bills of each denomination will be delivered.
 # Note: Consider that the ATM has bills of R$50, R$20, R$10, and R$1 available.
 
