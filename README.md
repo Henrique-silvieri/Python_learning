@@ -27,7 +27,8 @@ Here you will find the solutions to the exercises proposed in each module of the
 
 ### 🌍 World 3 — Composite Structures
 
-- [Module 11](./Exercises_CursoEmVideo/World_3/m11_Tuples) — Tuples 
+- [Module 11](./Exercises_CursoEmVideo/World_3/m11_Tuples) — Tuples
+- [Module 12](./Exercises_CursoEmVideo/World_3/m12_Lists_Part1) — Lists (Part 1)
 
 ---
 
