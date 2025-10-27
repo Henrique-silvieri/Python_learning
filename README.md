@@ -30,6 +30,7 @@ Here you will find the solutions to the exercises proposed in each module of the
 - [Module 11](./Exercises_CursoEmVideo/World_3/m11_Tuples) — Tuples
 - [Module 12](./Exercises_CursoEmVideo/World_3/m12_Lists_Part1) — Lists (Part 1)
 - [Module 13](./Exercises_CursoEmVideo/World_3/m13_Lists_Part2) — Lists (Part 2)
+- [Module 14](./Exercises_CursoEmVideo/World_3/m14_Dictionaries) — Dictionaries
 
 ---
 
