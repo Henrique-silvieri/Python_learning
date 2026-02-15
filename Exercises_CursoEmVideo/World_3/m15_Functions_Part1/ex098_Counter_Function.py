@@ -1,4 +1,4 @@
-# Create a program that has a function called counter(), which recives three parameters: first term, last term and common difference.
+# Create a program that has a function called counter(), which receives three parameters: first term, last term and common difference.
 # Your program must perform three counts using the created function:
 # A) From 1 to 10, counting by 1
 # B) From 10 to 0, counting by 2

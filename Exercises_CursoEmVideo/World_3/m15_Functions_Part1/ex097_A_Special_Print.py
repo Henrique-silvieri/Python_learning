@@ -1,4 +1,4 @@
-# Create a program that has a function called write(), which recives a any text as a parameter and display a message with adaptable size.
+# Create a program that has a function called write(), which receives a any text as a parameter and display a message with adaptable size.
 # Ex:
 # write('Hello, World!')
 # Output:

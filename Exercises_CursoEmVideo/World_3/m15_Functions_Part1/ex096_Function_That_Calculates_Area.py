@@ -1,4 +1,4 @@
-# Create a program that has a function called area(), which recives the dimentions of a rectangular plot of land (length and weight) 
+# Create a program that has a function called area(), which receives the dimentions of a rectangular plot of land (length and weight) 
 # and display the area of the land.
 
 def area(width, lenght):
