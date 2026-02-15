@@ -1,7 +1,4 @@
-# Create a program that manages a soccer player’s performance.
-# The program must read the player’s name and the number of matches played.
-# Then, it must read the number of goals scored in each match.
-# At the end, all this information must be stored in a dictionary, including the total number of goals scored during the championship.
+# Enhance Challenge 093 so that it works with multiple players, including a system to display detailed performance statistics for each player.
 
 player = {}
 goals = []
