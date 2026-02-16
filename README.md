@@ -32,6 +32,7 @@ Here you will find the solutions to the exercises proposed in each module of the
 - [Module 13](./Exercises_CursoEmVideo/World_3/m13_Lists_Part2) — Lists (Part 2)
 - [Module 14](./Exercises_CursoEmVideo/World_3/m14_Dictionaries) — Dictionaries
 - [Module 15](./Exercises_CursoEmVideo/World_3/m15_Functions_Part1) — Functions (Part 1)
+- [Module 16](./Exercises_CursoEmVideo/World_3/m16_Functions_Part2) — Functions (Part 2)
 
 ---
 
