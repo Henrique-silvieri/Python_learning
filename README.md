@@ -1,6 +1,6 @@
 # Python Course - Curso em Vídeo 🐍
 
-This repository was created with the purpose of storing the exercises I am solving during my Python learning journey through the free course offered by [Curso em Vídeo](https://www.youtube.com/c/CursoemVídeo), taught by professor Gustavo Guanabara.
+This repository was created with the purpose of storing the exercises I am solving during my Python learning journey through the free course offered by [Curso em Vídeo](https://www.youtube.com/@cursoemvideo), taught by professor Gustavo Guanabara.
 
 Here you will find the solutions to the exercises proposed in each module of the course, organized in folders according to the modules/classes.
 
@@ -34,6 +34,7 @@ Here you will find the solutions to the exercises proposed in each module of the
 - [Module 15](./Exercises_CursoEmVideo/World_3/m15_Functions_Part1) — Functions (Part 1)
 - [Module 16](./Exercises_CursoEmVideo/World_3/m16_Functions_Part2) — Functions (Part 2)
 - [Module 17](./Exercises_CursoEmVideo/World_3/m17_Modules_and_Packages) — Modules and Packages
+- [Module 18](./Exercises_CursoEmVideo/World_3/m18_Error_and_Exception_Handling) — Error and Exception Handling
 ---
 
 ## 🚀 Purpose
